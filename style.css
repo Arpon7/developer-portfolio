@@ -15,7 +15,7 @@ h1{
   font-family: sans-serif;
   font-weight: 700;
 }
-section{
+.flex-area{
   display: flex;
   
 }
@@ -49,6 +49,14 @@ section{
     background-position: left;
 }
 
+experience-area{
+
+}
+
+experience{
+  margin-left: 5%;
+  padding: 10px 40px
+}
 
 
 
