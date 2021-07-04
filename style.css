@@ -1,3 +1,20 @@
+.header_class{
+  background-color: tomato;
+  height: 5%;
+}
+.header_class p{
+  text-align: center;
+  color: azure;
+  margin-top: 0%;
+}
+.header_class a{
+  text-decoration: none;
+  background-image:linear-gradient(white,gray);
+  border-radius:5%;
+  padding: 0px 40px;
+  font-weight: 200;
+  float: right;
+}
 body{
   /*background-image: linear-gradient(lime, yellow);*/
   font-family: 'Poppins', sans-serif;
@@ -40,7 +57,8 @@ h1{
 
 .top-banner{
   background-image:url(images/top-banner.png);
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
+  margin-top: 0%;
 }
 
 .dream-big{
