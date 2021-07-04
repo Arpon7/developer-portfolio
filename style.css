@@ -49,16 +49,44 @@ h1{
     background-position: left;
 }
 
-experience-area{
-
-}
 
 experience{
   margin-left: 5%;
   padding: 10px 40px
 }
 
+.experience-item{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 5% 5%;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 5%;
+}
 
+.experience-area{
+  background-image: url(images/dream-bg_1.png);
+  background-repeat: no-repeat;
+  background-position-y: 7rem;
+}
+
+
+#exp_1{
+  border-left:7px solid;
+  border-image: linear-gradient(orange, gold);
+  border-image-slice: 1;
+}
+
+#exp_2{
+  border-left:7px solid;
+  border-image: linear-gradient(red, orange);
+  border-image-slice: 1;
+}
+
+footer p{
+  text-align: center;
+  padding-top: 2%;
+}
 
 
 
